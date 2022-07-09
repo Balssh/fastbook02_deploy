@@ -1,0 +1,4 @@
+https://download.pytorch.org/whl/cpu
+fastai
+voila
+ipywidgets
